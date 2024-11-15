@@ -1,2 +1,2 @@
 # Python-Programs
-Python Program to read from one file and write in another file.
+Python Program to to check if number is prime.
